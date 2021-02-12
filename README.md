@@ -1,2 +1,2 @@
 # Terraform-AWS-Project
-![picture](https://imgur.com/9czMeQv)
+![alt text](https://imgur.com/9czMeQv)
